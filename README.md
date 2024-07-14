@@ -1,2 +1,2 @@
 # Diagrama de classes
-![Classe UML](https://github.com/user-attachments/assets/15f8ae27-5529-47c7-b768-7c69a13a6075)
+![Classe UML(1)](https://github.com/user-attachments/assets/5552f255-2b57-4bd5-888f-0115d6ea1175)
